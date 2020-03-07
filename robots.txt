@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uaruyeeye.program-weep-repeat.co.uk/sitemap.xml
